@@ -4,6 +4,7 @@
 https://bingsu-frontend-dev.uc.r.appspot.com/login
 
 Admin credentials: isaiicatmat@gmail.com pw: bingsu
+
 User credentials: juan.cruz@pieconsulting.co.kr pw: bingsu
 
 ## Project setup
